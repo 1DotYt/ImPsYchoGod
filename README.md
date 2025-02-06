@@ -57,11 +57,11 @@ Meow 😻
  </details>  
  <br/> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="impsycho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1dotYT&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="1dotYT" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impsycho&theme=gruvbox" alt="impsycho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1dotYT&theme=gruvbox" alt="1dotYT" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impsycho&theme=onedark" alt="impsycho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dotYY&theme=onedark" alt="1dotYT" /></p>
 
 <h3 align="center">Social Links <img src = "https://media.discordapp.net/attachments/853145505894498414/1086209598861615194/handshake.gif" width=40px></h3>
 <p align="center">
